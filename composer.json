@@ -1,5 +1,5 @@
 {
-    "name": "i4e/laravel-whmcs",
+    "name": "i4e/whmcs-laravel",
     "description": "Laravel WHMCS API interface",
     "license": "MIT",
     "authors": [
